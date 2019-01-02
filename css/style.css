@@ -1,0 +1,13 @@
+.section{
+    background-color: rgb(177, 204, 150);
+    overflow: hidden;
+    min-height:500px;
+    display:block;
+    text-align: center;
+}
+.section,h2{
+    color: tomato;
+}
+.section,p{
+    color: darkslategrey;
+}
